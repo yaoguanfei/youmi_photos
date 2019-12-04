@@ -6,3 +6,5 @@
 log/
 screen_shot/
 /venv
+venv/
+/test
