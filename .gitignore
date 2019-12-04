@@ -1,0 +1,8 @@
+*.xml
+*.pyc
+*.iml
+*.csh
+/.idea/*
+log/
+screen_shot/
+/venv
